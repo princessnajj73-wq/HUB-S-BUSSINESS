@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+    color: red;
+    border: 3px solid black;
+}
+
+body {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav a {
+    color: white;
+    margin: 20px;
+    padding-bottom: 5px;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+h1 {
+    color: black;
+    margin-left: 80px;
+}
+
+h2 {
+    color: blue;
+    padding: 20px;
+}
+
+h3 {
+    color: blue;
+    padding: 5px;
+}
+
+form {
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h4 p {
+    padding: 5px;
+}
+footer {
+    text-align: center;
+}
